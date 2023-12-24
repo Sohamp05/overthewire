@@ -5,4 +5,5 @@ Level 1->2: -cat ./- because cat- has a different function, password(rRGizSaX8Mk
 Level 2->3: -cat "spaces in this filename" as it has spaces password(aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG)
 Level 3->4: first, cd to /inhere, then as it is hidden, do ls -a to get even . .. and .hidden, then cat .hidden to get the password(2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe)
 Level 4->5: go to directory inhere, cat out all files individually to get the password in file07 password(lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR)
-Level 5->6: do find -size 1033c to get the file which has the password(
+Level 5->6: do find -size 1033c to get the file which has the password(P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU)
+Level 6->7:
